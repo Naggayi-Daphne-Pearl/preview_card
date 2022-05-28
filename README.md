@@ -5,7 +5,7 @@ This project is meant to test my ability to use CSS and HTML5
 HTML5 
 CSS 
 
-#Getting started 
+# Getting started 
 To get a local copy of this repository, please run the following commands on your terminal
 1. $ cd (This is a folder of your choice)
 2. Clone this repository using: 
