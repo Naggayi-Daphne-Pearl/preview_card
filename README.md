@@ -8,10 +8,8 @@ CSS
 #Getting started 
 To get a local copy of this repository, please run the following commands on your terminal
 1. $ cd (This is a folder of your choice)
-
 2. Clone this repository using: 
 $ git clone https://github.com/Naggayi-Daphne-Pearl/preview_card.git
-
 OR
 $ git clone https://github.com/Naggayi-Daphne-Pearl/preview_card.git
 3. $ cd in to folder and Open the index.html file in a browser of your choice.
@@ -19,7 +17,7 @@ $ git clone https://github.com/Naggayi-Daphne-Pearl/preview_card.git
 # Author 
 Github: https://github.com/Naggayi-Daphne-Pearl
 
-#🤝 Contributing
+🤝# Contributing
 Contributions, issues and feature requests are welcome!
 Feel free to check the issues page.
 
