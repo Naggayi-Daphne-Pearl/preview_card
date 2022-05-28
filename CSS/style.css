@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #090B1A;
+	font-size: 15px;
+	font-family: 'Inter', sans-serif;
+	font-weight: 400;
+	color: white;
+    min-height: 40rem;
+    min-width: 80rem;
+}
+.container {
+    min-height: 40rem;
+    display: flex;
+    height: 100vh;
+    min-height: 40rem;
+    min-width: 80rem;
+    align-items: center;
+	background-color: #1B1938;
+	border-radius: 0.5rem;
+    margin-top: 100px;
+    padding: 4.43rem 0 4rem 4.5rem;
+
+} 
+
+.container-content {
+    display: block;
+    justify-content: center;
+    min-height: 28rem;
+    width: 69rem;
+    border-radius: .5rem;
+    margin-top: 50px;
+}
+.header h1 {
+    font-weight: 800 ;
+    font-size: 2.1rem;
+    padding: 0;
+    width: 29rem;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.65rem;
+    line-height: 3rem;
+}
+
+.header .info {
+    font-weight: 400;
+    font-size: 15px;
+    padding: 0;
+    line-height: 20px;
+    color: white;
+    opacity: 0.75;
+    width: 21rem;
+    
+}
+
+.header span {
+    color: blueviolet;
+}
+
+.heads {
+    color: #FFF;
+    display: flex;
+    margin: 4.7rem auto 3.92rem;
+    
+}
+.heads ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  letter-spacing: 1px;
+  justify-content: center;
+  margin-right: 0.5rem;
+
+} 
+.heads h2 {
+    color: white;
+    margin-bottom: 0.3em;
+}
+
+.heads .par-item {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: .8rem;
+    letter-spacing: .02rem;
+    margin-top: 1rem;
+    opacity: .6;
+    text-transform: uppercase;
+    width: 9rem;
+}
+.heads li {
+    margin-left: -0.2rem;
+}
+
+.cover-img{
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0 .5rem .5rem 0;
+    height: 28rem;
+    margin-left: 5rem;
+    width: 33.75rem;
+    opacity: 0.5;
+    
+}
+.cover-img::after {
+    background-color: #550081;
+    border-radius: 0 .5rem .5rem 0;
+    height: 30rem;
+    opacity: .5;
+    position: absolute;
+    width: 33.75rem;
+}
+
+@media (max-width: 630px){
+    body {
+        max-width: 100%;
+    }
+    .container {
+        display: block;
+        height: 48rem;
+        min-height: 48rem;
+        min-width: 20.438rem;
+        position: relative;
+        width: 20rem;
+    }
+    .container-content {
+        left: 0;
+        margin: 16.8rem auto auto 1.84rem;
+        padding: 0;
+        position: absolute;
+        text-align: center;
+        width: 17rem;
+    }
+    .info {
+        font-size: .9rem;
+        letter-spacing: 0.018rem;
+        line-height: 1.58rem;
+        margin: 1rem auto auto -.17rem;
+        width: 17rem;
+    }
+    .heads {
+        flex-direction: column;
+        margin: 2.6rem auto auto -.5rem;
+    }
+    img {
+        border-radius: .5rem .5rem 0 0;
+        height: 15rem;
+        margin: 0;
+        width: 20.438rem;
+    }
+}
+
