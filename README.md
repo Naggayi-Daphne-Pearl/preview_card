@@ -17,12 +17,12 @@ $ git clone https://github.com/Naggayi-Daphne-Pearl/preview_card.git
 # Author 
 Github: https://github.com/Naggayi-Daphne-Pearl
 
-🤝# Contributing
+# Contributing 🤝
 Contributions, issues and feature requests are welcome!
 Feel free to check the issues page.
 
-#Show your support
+# Show your support
 Give a ⭐️ if you like this project!
 
-#Acknowledgments
+# Acknowledgments
 This project was originally taken from https://www.google.com/search?q=www.frontendmentor&oq=www.frontendmentor&aqs=chrome..69i57j69i65j69i60l3.952j0j4&sourceid=chrome&ie=UTF-8
